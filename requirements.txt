@@ -1,0 +1,11 @@
+torch
+fairscale
+fire
+sentencepiece
+transformers
+ipykernel
+streamlit
+fastapi[all]
+
+# torch 다운로드
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
