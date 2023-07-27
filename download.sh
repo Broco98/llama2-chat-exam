@@ -15,3 +15,6 @@ pip install fastapi[all]
 
 # torch 다운로드
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+
+# db
+pip install sqlalchemy
